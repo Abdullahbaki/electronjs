@@ -1,0 +1,25 @@
+{
+  "name": "electronjs",
+  "version": "1.0.0",
+  "description": "Desktop App",
+  "main": "main.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abdullahbaki/electronjs.git"
+  },
+  "keywords": [
+    "elec"
+  ],
+  "author": "AbdullahBaki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Abdullahbaki/electronjs/issues"
+  },
+  "homepage": "https://github.com/Abdullahbaki/electronjs#readme",
+  "devDependencies": {
+    "electron": "^18.1.0"
+  }
+}
