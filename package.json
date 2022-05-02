@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/Abdullahbaki/electronjs#readme",
   "devDependencies": {
-    "electron": "^18.1.0"
+    "electron": "^18.2.0"
   }
 }
